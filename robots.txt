@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ontiogre.github.io/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/app/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/assets/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/css/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/includes/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/item/sitemap.html.gz
+Sitemap: https://ontiogre.github.io/src/sitemap.html.gz
